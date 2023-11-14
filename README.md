@@ -1,6 +1,7 @@
 
+![logo](https://raw.githubusercontent.com/thirtysix/Ensembl_species_nt_freq/main/images/scans.png)
 
-## TFBS_footprinter manuscript analyses
+## Nucleotide counts and frequencies of 318 species
 
 # 1. Background
 This repository provides Python scripts used to:
