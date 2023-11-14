@@ -1,4 +1,9 @@
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10126451.svg)](https://doi.org/10.5281/zenodo.10126451)
+
+
 ![logo](https://raw.githubusercontent.com/thirtysix/Ensembl_species_nt_freq/main/images/scans.png)
 
 ## Nucleotide counts and frequencies of 318 species
